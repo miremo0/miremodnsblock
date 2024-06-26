@@ -1,0 +1,2 @@
+# miremodnsblock
+block dns
