@@ -2,12 +2,15 @@
 
 # Block Corel Servers
 #
-0.0.0.0  apps.corel.com
-0.0.0.0  mc.corel.com
-0.0.0.0  iws.corel.com
-0.0.0.0  deploy.akamaitechnologies.com
-0.0.0.0  compute-1.amazonaws.com
-0.0.0.0  origin-mc.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 apps.corel.com
+0.0.0.0 origin-mc.corel.com
+0.0.0.0 iws.corel.com
+0.0.0.0 ipm.corel.com
+0.0.0.0 dev1.ipm.corel.public.corel.net
+0.0.0.0 www.corelstore.com
+0.0.0.0 sws.corel.com
+0.0.0.0 redirect.corel.com 
 #
 # Block Adobe Servers
 #
