@@ -477,4 +477,41 @@
 0.0.0.0 ok9sn4bf8f.adobestats.io
 0.0.0.0 bpvcty7ry7.adobestats.io
 0.0.0.0 ah5otkl8ie.adobestats.io
+
+#fiery
+0.0.0.0	103.36.149.70
+0.0.0.0	103.36.149.71
+0.0.0.0	162.159.134.42
+0.0.0.0	162.159.135.42
+0.0.0.0	192.68.228.219
+0.0.0.0	192.68.228.230
+0.0.0.0	192.68.228.36
+0.0.0.0	192.68.228.39
+0.0.0.0	192.68.228.40
+0.0.0.0	192.68.228.47
+0.0.0.0	ews-qa.fiery.com
+0.0.0.0	fcfivcloud3.fiery.com
+0.0.0.0	fiery.com
+0.0.0.0	fit.fiery.com
+0.0.0.0	flexlicensing.fiery.com
+0.0.0.0	flexlicensing-qa.fiery.com
+0.0.0.0	ftp.fiery.com
+0.0.0.0	help.fiery.com
+0.0.0.0	jdf.fiery.com
+0.0.0.0	jira.fiery.com
+0.0.0.0	licensing.fiery.com
+0.0.0.0	liveupdate.fiery.com
+0.0.0.0	liveupdatetest.fiery.com
+0.0.0.0	ns2.fiery.com
+0.0.0.0	portal.fiery.com
+0.0.0.0	portal-dev.fiery.com
+0.0.0.0	product-redirect.fiery.com
+0.0.0.0	resources.fiery.com
+0.0.0.0	services.fiery.com
+0.0.0.0	sftp.fiery.com
+0.0.0.0	shop-test.fiery.com
+0.0.0.0	solutions.fiery.com
+0.0.0.0	tools.fiery.com
+0.0.0.0	wp.fiery.com
+
 #
