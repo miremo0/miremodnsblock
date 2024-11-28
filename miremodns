@@ -50,3 +50,6 @@
 0.0.0.0	wp.fiery.com
 
 #
+# Block netmonitor
+0.0.0.0 license.worksheetcrafter.com
+0.0.0.0 license.getschoolcraft.com
